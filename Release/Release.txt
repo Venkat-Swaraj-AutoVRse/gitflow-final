@@ -1,3 +1,4 @@
 The version is bumped to 0.1.0
 Bug has been found.
 Root Cause Analysis is done.
+Bug has been fixed.
